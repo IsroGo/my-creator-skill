@@ -23,6 +23,9 @@ It gives information about my creation. it also describes about how i was built 
 * "Who manufactured you?"
 * "who created you"
 * "who built you"
+* "who built"
+* "who created"
+* "who built you"
 
 ## Credits
 IsroGo
